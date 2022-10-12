@@ -7186,3 +7186,62 @@ CloudSpawner_C.ReceiveBeginPlay
 [2022.10.12-02.33.31:904][523]LogSavePackage: Moving '../../../../../../Users/zera1/Documents/Unreal Projects/Platformer/Saved/BP_CloudCB37AA70499862101D5BEF9687F1855A.tmp' to '../../../../../../Users/zera1/Documents/Unreal Projects/Platformer/Content/LearningKit_Games/Blueprints/Enemies/CloudPatrol/BP_Cloud.uasset'
 [2022.10.12-02.33.31:924][523]AssetCheck: New page: Asset Save: BP_Cloud
 [2022.10.12-02.33.31:924][523]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/Enemies/CloudPatrol/BP_Cloud.BP_Cloud
+[2022.10.12-02.40.03:162][982]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.12-02.40.03:170][982]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.12-02.40.03:170][982]PIE: New page: PIE session: LearningKit_Games_Showcase (Oct 11, 2022, 4:40:03 PM)
+[2022.10.12-02.40.03:218][982]LogPlayLevel: Creating play world package: /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase
+[2022.10.12-02.40.03:236][982]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018122s)
+[2022.10.12-02.40.03:238][982]LogAIModule: Creating AISystem for world LearningKit_Games_Showcase
+[2022.10.12-02.40.03:238][982]LogPlayLevel: PIE: World Init took: (0.001270s)
+[2022.10.12-02.40.03:238][982]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/LearningKit_Games/Maps/LearningKit_Games_Showcase.LearningKit_Games_Showcase to /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase (0.019532s)
+[2022.10.12-02.40.03:296][982]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.10.12-02.40.03:300][982]LogAudio: Display: Creating Audio Device:                 Id: 69, Scope: Unique, Realtime: True
+[2022.10.12-02.40.03:300][982]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.12-02.40.03:300][982]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.12-02.40.03:300][982]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.12-02.40.03:300][982]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.12-02.40.03:300][982]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.12-02.40.03:300][982]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.12-02.40.03:300][982]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.12-02.40.03:300][982]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.12-02.40.03:300][982]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.12-02.40.03:300][982]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.12-02.40.03:300][982]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.12-02.40.03:300][982]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.12-02.40.03:303][982]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.12-02.40.03:303][982]LogAudioMixer: Display: 1: FrontRight
+[2022.10.12-02.40.03:312][982]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2022.10.12-02.40.03:312][982]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.12-02.40.03:312][982]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.12-02.40.03:312][982]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.12-02.40.03:313][982]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.12-02.40.03:313][982]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.12-02.40.03:313][982]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.12-02.40.03:314][982]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.12-02.40.03:314][982]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.12-02.40.03:314][982]LogInit: FAudioDevice initialized.
+[2022.10.12-02.40.03:314][982]LogAudio: Display: Audio Device (ID: 69) registered with world 'LearningKit_Games_Showcase'.
+[2022.10.12-02.40.03:329][982]LogLoad: Game class is 'BP_LearningKitGameMode_C'
+[2022.10.12-02.40.03:334][982]LogWorld: Bringing World /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase.LearningKit_Games_Showcase up for play (max tick rate 60) at 2022.10.11-21.40.03
+[2022.10.12-02.40.05:160][982]LogWorld: Bringing up level for play took: 1.829551
+[2022.10.12-02.40.05:161][982]LogOnline: OSS: Creating online subsystem instance for: :Context_95
+[2022.10.12-02.40.05:194][982]PIE: Server logged in
+[2022.10.12-02.40.05:195][982]PIE: Play in editor total start time 2.028 seconds.
+[2022.10.12-02.40.13:111][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-02.40.13:111][428]LogWorld: BeginTearingDown for /Game/LearningKit_Games/Maps/UEDPIE_0_LearningKit_Games_Showcase
+[2022.10.12-02.40.13:112][428]LogWorld: UWorld::CleanupWorld for LearningKit_Games_Showcase, bSessionEnded=true, bCleanupResources=true
+[2022.10.12-02.40.13:113][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-02.40.13:126][428]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.12-02.40.13:136][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.12-02.40.13:184][428]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.12-02.40.13:184][428]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-02.40.13:185][428]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.12-02.40.13:193][428]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.10.12-02.40.13:225][429]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2022.10.12-02.42.28:428][356]BlueprintLog: New page: Compile BP_LearningKitGameMode
+[2022.10.12-02.42.28:562][356]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.10.12-02.42.31:666][524]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2022.10.12-02.42.33:175][524]LogSlate: Window 'Save Content' being destroyed
+[2022.10.12-02.42.33:273][524]LogSavePackage: Moving '../../../../../../Users/zera1/Documents/Unreal Projects/Platformer/Saved/BP_LearningKitGameMode577CE2174914A1626883C7A1D17A086C.tmp' to '../../../../../../Users/zera1/Documents/Unreal Projects/Platformer/Content/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode.uasset'
+[2022.10.12-02.42.33:294][524]AssetCheck: New page: Asset Save: BP_LearningKitGameMode
+[2022.10.12-02.42.33:294][524]LogContentValidation: Display: Validating Blueprint /Game/LearningKit_Games/Blueprints/GameFramework/BP_LearningKitGameMode.BP_LearningKitGameMode
